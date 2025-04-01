@@ -19,6 +19,7 @@ Les tâches doivent être conservées le temps de la session de l’utilisateur 
 • L'affichage des tâches utilise une boucle dans une page JSP
 • Le projet doit pouvoir être déployé dans un serveur Apache Tomcat
 http://ec2-15-237-202-85.eu-west-3.compute.amazonaws.com/{votre_prénom}
+
 ✅ Fonctionnalités attendues
 Fonction	Détail
 Ajouter une tâche	Formulaire dans une page JSP
@@ -27,8 +28,10 @@ Accueil	Page d'accueil avec navigation vers les autres fonctionnalités
 Suppression d’une tâche	Permettre la suppression d'une tâche
 Date d’échéance	La tâche contiendra une « date d’échéance »
 Tâche terminée	Permettre de marquer une tâche comme terminée
+
 📅 Durée estimée
 Temps de réalisation estimé : 4 heures.
+
 💼 Livrables attendus
 •	Le lien URL de votre Repository GitHub contenant l'application fonctionnelle : JSP, classe(s) Java (Task.java), fichier web.xml.
 •	Votre application disponible sur le serveur AWS suivant : 
